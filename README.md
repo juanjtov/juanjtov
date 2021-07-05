@@ -13,10 +13,15 @@
 <p align='center'>
      I've been <strong>Data Analyst, Data Engineer, Process Engineer, Researcher and CEO</strong>. 
  </p>
+ 
+<p align='center'>
+    Contact: juanjosetmontana@gmail.com or through the following icons :arrow_down:
+</p>   
+ 
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/juanjtov"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:juanjosetmontana@gmail.com?subject=Hola%20Juan Jose"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; :juanjosetmontana@gmail.com
+  <a href="mailto:juanjosetmontana@gmail.com?subject=Hola%20Juan Jose"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
  </p>
 
 
