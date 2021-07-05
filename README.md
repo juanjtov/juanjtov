@@ -15,7 +15,7 @@
  </p>
  
 <p align='center'>
-    Contact: juanjosetmontana@gmail.com or through the following icons :arrow_down:
+    <strong>Contact Info</strong>: juanjosetmontana@gmail.com 
 </p>   
  
 
