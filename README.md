@@ -28,7 +28,7 @@
 <h3>GitHub Stats</h3>
 <div align="center">
 <a href="https://github.com/juanjtov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjtov&theme=dark&count_private=true&hide=css,blade" alt="juanjtov's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjtov&theme=vue-dark&count_private=true&hide=css,blade" alt="juanjtov's GitHub Stats" />
 </a>
 
 <p align='center'>
