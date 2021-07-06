@@ -25,6 +25,10 @@
  </p>
 
 
+<h3>GitHub Stats</h3>
+![Juan Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanjtov&show_icons=true)
+
+
 <p align='center'>
   
 </p>
