@@ -31,6 +31,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjtov&theme=vue-dark&count_private=true&hide=css,blade" alt="juanjtov's GitHub Stats" />
 </a>
 
+<a href="https://github.com/jcmexdev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanjtov&count_private=true&show_icons=true&line_height=27&theme=vue-dark" alt="juanjtov's GitHub Stats"/>
+</a>
+</div>
+    
 <p align='center'>
   
 </p>
