@@ -7,7 +7,7 @@
 <p align='center'>
   
   :pencil2: <strong>Diary activites:</strong> Build, deploy and mantain data pipelines. <strong>Proficiency</strong> using Python, SQL, FastAPI, FLASK, NLTK, Numpy, Pandas, Keras, Scikit-Learn and Tensor Flow.
-<strong>Deployment Tools:</strong> Google Cloud Platform, Digital Ocean and Heroku.
+<strong>Deployment Tools:</strong> Google Cloud Platform, Digital Ocean and Vercel.
 
 </p>
 <p align='center'>
