@@ -15,9 +15,10 @@ I design and ship production AI systems: multi-agent orchestration, hybrid-searc
 |---|---|---|
 | [**FINAQ**](https://github.com/juanjtov/finaq) | Multi-agent equity research analyst. Parallel agents over SEC filings, fundamentals and news; hybrid BM25 + cosine + RRF retrieval; 10,000-sample Monte Carlo valuation; three-tier RAG evaluation; every claim cited. | LangGraph · Pinecone · OpenRouter · Streamlit · Pydantic |
 | [**ADLC Pipeline**](https://github.com/juanjtov/adlc-pipeline) | Portable agentic software-delivery pipeline as a Claude Code plugin. Four role agents with two human gates, deterministic unit-tested guardrails, a self-improving retro loop, and per-agent cost/latency telemetry. | Claude Code · GitHub Actions · Bash · OpenTelemetry |
-| [**Inventory PPBGA**](https://github.com/juanjtov/inventory-ppbga) | Production point-of-sale and inventory system for a padel club café: real-time stock, split payments, open tabs, cash closing, role-based access. | React · FastAPI · Supabase (Postgres, Auth, Realtime) |
+| **Remodly** *(private)* | AI in-home estimator for general contractors. Learns a contractor's pricing from past estimates and contracts, turns iOS LiDAR room scans into on-the-spot estimates, and exports branded documents for e-signature. Hybrid retrieval (pgvector + full-text, weighted RRF), deterministic pricing guardrails, golden-set retrieval and generation evals. | React · FastAPI · Supabase (pgvector) · OpenRouter · Swift |
+| **Proesphere** *(private)* | AI-native construction project management platform. Agentic assistant with tool-based orchestration and streaming, human confirmation before high-risk actions, role-based access, a client portal, and CI on ephemeral database branches. Delivered through the ADLC pipeline above. | React · TypeScript · FastAPI · PostgreSQL (Neon) · Google Cloud |
 
-**Proesphere** *(private — walkthrough available on request)* — AI-native construction project management platform: document intelligence with human-approval gates, hybrid-search RAG for on-the-spot estimates, golden-set regression evals, CI on ephemeral database branches.
+*Private repos: walkthrough available on request.*
 
 ---
 
