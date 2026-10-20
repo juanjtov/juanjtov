@@ -2,7 +2,7 @@
 
 **AI Solutions Architect · Forward Deployed Engineer** — Greater Vancouver, BC
 
-I design and ship production AI systems: multi-agent orchestration, hybrid-search RAG, and the evaluation harnesses that make them trustworthy. Chemical engineer by training, MBA, and founder of Toruk Technologies, where I build AI products for the construction industry while running a general-contracting practice — so the systems I build get used by real operators on real jobs.
+I design and ship production AI systems: multi-agent orchestration, hybrid-search RAG, and the evaluation harnesses that make them trustworthy. Chemical engineer, MBA, and co-founder of Toruk Technologies, where I've built AI products for the construction industry. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanjtov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjtov)
 [![Email](https://img.shields.io/badge/Email-contact-D14836?logo=gmail&logoColor=white)](mailto:juanjosetmontana@gmail.com)
